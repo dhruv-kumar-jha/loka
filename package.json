@@ -1,0 +1,23 @@
+{
+  "name": "loka",
+  "version": "1.0.0",
+  "description": "Easily set and access your variables globally without declaring them globally.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruv-kumar-jha/loka.git"
+  },
+  "author": "dhruv@dhruvkumarjha.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhruv-kumar-jha/loka/issues"
+  },
+  "homepage": "https://github.com/dhruv-kumar-jha/loka#readme",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.2.0"
+  }
+}

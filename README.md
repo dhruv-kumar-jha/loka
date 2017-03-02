@@ -10,7 +10,6 @@ General features:
  * **store**: access the entire store
 
 
-<br />
 ### Use Case
 
 Lot of times we have to make certain data available throughout the the application, These could be config variables, data we received from the middlewares/database/thirdparty, etc.
@@ -21,7 +20,6 @@ Specially in express, If you're doing token based authentication or if your app 
 Its simple, readable and gets the job done.
 
 
-<br />
 ### Installation
 
 Let's get started by installing the library,
@@ -37,7 +35,6 @@ const Loka = require('loka');
 ```
 
 
-<br />
 #### Adding a key to Loka store, `Loka.set()`
 
 ```javascript
